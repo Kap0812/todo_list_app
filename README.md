@@ -18,7 +18,7 @@ Core Features
 
 ✅ Categories: Organize tasks into categories (Personal, Work, Shopping, Health, Other)
 
-✅ Due Dates: Optional due dates with date picker
+✅ time spent: araound 32 hrs.
 
 A few resources I used to get started for my first first Flutter project:
 
